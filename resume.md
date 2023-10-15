@@ -1,14 +1,21 @@
-Traci Lu
+
+
+
 220 Huntington Avenue, Boston MA 02115
 2037 Begue Ln, Covington, LA. 70433
 lu.tra@northeastern.edu
 346-205-2408
 
 
+# Traci Lu's Resume
+
+## Current Education
+**Northeastern University**, Khoury College of Computer Sciences
+*Candidate: Bachelor of Science in Computer Science*
+Boston, MA • Sep 2023 - May 2027
 
 
-
-Education
+Previous Education
 The Hockaday School, Dallas, TX. (August 2020 to Present)
 Unweighted GPA (4.0 Scale): 4.11 	Expected Graduation: May 2023
 Seven Lakes High School, Katy, TX. (August 2019 to May 2020)
@@ -21,6 +28,7 @@ Submitted weekly reports and feedback about students’ progress in the labs and
 Provided guidance and explanations about the concepts being explained in lectures
 
 Leadership Experience
+
 Director of Events & Logistics (12), Treasurer (10, 11), Hockaday HOSA (August 2020 to Present)
 Chosen through an application process to serve as the club director
 Design annual timeline to carry out events including community service initiatives, recruiting volunteers, and study sessions for HOSA competitions
